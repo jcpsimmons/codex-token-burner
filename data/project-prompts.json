@@ -1,0 +1,7 @@
+[
+  {
+    "id": "today-news-app",
+    "title": "Today's News App",
+    "prompt": "Search the web for interesting news from today, choose one story with strong potential for an interactive software treatment, and build an interesting app related to that news. Run completely headlessly: do not ask clarifying questions, make reasonable assumptions, use live web search, cite or summarize the news sources you used in the final response, and avoid any service that requires credentials, accounts, paid APIs, or manual setup. Create a unique project directory under /tmp and build the app there. The app should be locally runnable, visually polished, and substantively connected to the news story rather than just a generic dashboard. Install dependencies if needed, run relevant verification or a production build, fix failures, and finish with the exact /tmp path and concise run instructions."
+  }
+]
